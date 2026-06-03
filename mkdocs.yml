@@ -6,5 +6,3 @@ theme:
   name: material
   language: ja
 
-nav:
-  - Home: index.md
