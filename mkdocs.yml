@@ -1,10 +1,10 @@
 site_name: Git Notes forBeginners
 site_description: Git学習ノート
-site_url: : https://aigon3535.github.io/git-learning-notes/
+site_url: https://aigon3535.github.io/git-learning-notes/
 
 theme:
   name: material
   language: ja
 
-  nav:
-    - Home: index.md
+nav:
+  - Home: index.md
