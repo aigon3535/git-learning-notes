@@ -12,6 +12,6 @@
 ### [中級編](02_中級編.md)
 
 
-`stash` `rebase`
+[`stash`](03_stash.md) `rebase`
 
 ### 上級編（*工事中）
