@@ -17,6 +17,7 @@ nav:
       - stash: 02_コマンド/03_stash.md
   - 定着テスト: 03_定着テスト/index.md
   - トラブルQ&A: 09_トラブルQ&A/index.md
+  - python: python/index.md
 
 markdown_extensions:
   - admonition
